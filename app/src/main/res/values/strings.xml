@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Se lo adivino</string>
+    <string name="B1">Button</string>
+    <string name="b1">B1</string>
+    <string name="b2">B2</string>
+    <string name="adivina_el_number">Adivina el Number</string>
+    <string name="descripcion">Qué numero estoy pensando (de 1 a 1000)</string>
+</resources>
